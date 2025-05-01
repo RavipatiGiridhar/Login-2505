@@ -1,0 +1,14 @@
+key: value
+name: ravi
+course: devops
+city: hyderabad
+
+trainer:
+  name: ravi
+  course: devops
+  city: hyderabad
+
+courses:
+- aws
+- azure
+- devops  
